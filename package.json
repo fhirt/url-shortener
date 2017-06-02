@@ -1,0 +1,23 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhirt/request-header-parser.git"
+  },
+  "author": "Fabio Hirt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fhirt/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/fhirt/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
