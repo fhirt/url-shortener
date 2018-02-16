@@ -6,3 +6,10 @@ Build a full stack JavaScript app that implements the following User Stories:
 
 
 [url-shortener-app](https://gotothis.herokuapp.com/)
+
+
+## technologies and tools used
+- node.js
+- heroku
+- github
+- atom
